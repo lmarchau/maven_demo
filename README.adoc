@@ -1,0 +1,7 @@
+= Release tests
+
+== Prepare
+
+    ./mvnw release:prepare -DtagNameFor=@{project.version} -Dtag -DdevelopmentVersion=0.0.2-SNAPSHOT -DreleaseVersion=0.0.1 -DautoVersionSubmodules=true
+
+
