@@ -8,7 +8,8 @@
   <packaging>pom</packaging>
 
   <scm>
-    <developerConnection>scm:git:ssh://github.com/lmarchau/demo_maven.git</developerConnection>
+    <connection>scm:git:ssh://git@github.com/lmarchau/maven_demo.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/lmarchau/maven_demo.git</developerConnection>
   </scm>
 
   <build>
